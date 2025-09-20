@@ -1,0 +1,6 @@
+"# Access Simulator Project" 
+"" 
+"## Setup Instructions" 
+"1. Clone repo" 
+"2. Switch to dev branch for code" 
+"3. Run frontend and backend separately" 
